@@ -8,7 +8,7 @@ You are in consulting business. You are hired by a small real estate company to 
 The tool must contain enough flexibility to enable the future users to play with the model and conduct different analyses. Among others, the company requests a user-friendly and sophisticated input part where a manager can change not only the amount of money for a particular expense, but also the timing of this expense, e.g. in which month to fix something, they also want to have sensitivity analysis, scenario tool and automatic breakeven analysis, so it can be easily repeated for different scenarios. Overall, the model must be able to help analyzing the liquidity, see how much extra money is required, what happens if something goes not as planned, whether it makes sense to delay some costs etc.
 Your contract includes building the model and performing the detailed liquidity analysis for the next year.
 
-## Requirments:
+## Requirements:
 
 The main goal is to calculate how much the company owners must insert money into the company so that the liquidity always stays positive. The tool must include liquidity budgeting for one year (12 months) starting from January and running until December.
 1. Conduct Break-Even Analysis
