@@ -1,9 +1,9 @@
-# Liquidity-Budgeting-Model
+<h1 align="center"> Liquidity-Budgeting-Model </h1>
 
 In this repo we are creating a liquidity budgeting model for a real estate company that would allow them to manage their working capital.
 ## Case Prompt:
 
-You are in consulting business. You are hired by a small real estate company to help them manage their liquidity budgeting (or in other words to figure out the best timing of their expenses to minimize the extra cash needed). They want you to build for them a liquidity budgeting tool (an Excel model) that they will use to analyze and manage their working capital. 
+You are in a consulting business. You are hired by a small real estate company to help them manage their liquidity budgeting (or in other words to figure out the best timing of their expenses to minimize the extra cash needed). They want you to build for them a liquidity budgeting tool (an Excel model) that they will use to analyze and manage their working capital. 
 
 The tool must contain enough flexibility to enable the future users to play with the model and conduct different analyses. Among others, the company requests a user-friendly and sophisticated input part where a manager can change not only the amount of money for a particular expense, but also the timing of this expense, e.g. in which month to fix something, they also want to have sensitivity analysis, scenario tool and automatic breakeven analysis, so it can be easily repeated for different scenarios. Overall, the model must be able to help analyzing the liquidity, see how much extra money is required, what happens if something goes not as planned, whether it makes sense to delay some costs etc.
 Your contract includes building the model and performing the detailed liquidity analysis for the next year.
