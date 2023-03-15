@@ -1,4 +1,4 @@
-<h1 align="center"> Liquidity-Budgeting-Model </h1>
+<h1 align="center"> Liquidity Budgeting Model </h1>
 
 In this repo we are creating a liquidity budgeting model for a real estate company that would allow them to manage their working capital.
 ## Case Prompt:
